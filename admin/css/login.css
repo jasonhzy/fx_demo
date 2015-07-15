@@ -1,0 +1,15 @@
+.main{ 
+text-align:center;
+height: auto !important;  
+height:700px;   
+min-height:700px !important;
+}
+.maincontent{height:402px; width:691px; margin-left:14%; margin-top:10%; background:url(../images/login_bg.png) center center no-repeat; text-align:center}
+.loginbox{ margin-top:10px; padding-top:20px; text-align:center;}
+.logintitle{ height:50px;background:url(../images/login_title.png) center center no-repeat;font-size:30px; text-align:center; line-height:50px; color:#666666}
+.logincontent{ margin-top:50px;}
+.logincontent table{ padding-left:50px}
+.logincontent table td{ height:40px}
+.logincontent table td input{ height:20px}
+.login_button{ cursor:pointer}
+body{ background-color:#f2f5f8}

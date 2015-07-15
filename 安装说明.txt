@@ -1,0 +1,3 @@
+1、配置数据库信息 路径文件：/data/config.php
+
+2、把站点数据库导入： 文件路径在 /db/cainiao.sql
